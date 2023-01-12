@@ -14,9 +14,9 @@ git config --global user.email "abc@zy.com"
 Lênh để khởi tạo Git repo là: ` git init `
 
 ## Phần 3 - Commit
-`php
-anànk
-`
+```php
+àhdào àkda sdl
+```
 Dung hai lệnh để commit thay đổi lên Git repo:
 
 ```
