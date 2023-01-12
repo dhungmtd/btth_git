@@ -11,7 +11,7 @@ git config --global user.email "abc@zy.com"
 
 ## Phần 2 - Khởi tạo Git repo
  
-Lênh để khởi tạo Git repo là: `git init`
+Lênh để khởi tạo Git repo là: ` git init `
 
 ## Phần 3 - Commit
 
@@ -22,6 +22,6 @@ git add .!
 
 git commit -m "Thông điệp commit"
 ```
-##Phần 4 - Push
+## Phần 4 - Push
 
 Push local repo lên Remote repo trên Github.
