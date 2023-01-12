@@ -16,7 +16,7 @@ Lênh để khởi tạo Git repo là: ` git init `
 ## Phần 3 - Commit
 ```php
 
-echo ("highlight code");
+ ("highlight code")
 
 ```
 Dung hai lệnh để commit thay đổi lên Git repo:
